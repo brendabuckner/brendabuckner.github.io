@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Brenda Buckner
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

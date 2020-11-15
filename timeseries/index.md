@@ -1,5 +1,5 @@
 ---
-
+title: Brenda Buckner
 ---
 
 ## Time Series Decomposition

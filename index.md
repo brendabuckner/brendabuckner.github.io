@@ -1,6 +1,5 @@
 ---
 title: Brenda Buckner
-description: MSBA Coursework
 ---
 
 ## Competing Through Business Analytics

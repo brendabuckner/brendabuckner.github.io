@@ -3,7 +3,7 @@ title: Brenda Buckner
 description: MSBA Coursework
 ---
 
-## CTBA Assignments:
+## Competing Through Business Analytics
 
 - [Time Series Decomposition](/timeseries/index.md)
 

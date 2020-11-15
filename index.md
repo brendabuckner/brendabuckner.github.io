@@ -3,7 +3,7 @@ title: Brenda Buckner
 description: MSBA Coursework
 ---
 
- ## CTBA Assignments:
+## CTBA Assignments:
 
 - [Time Series Decomposition](/timeseries/index.md)
 
